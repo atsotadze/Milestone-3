@@ -38,7 +38,7 @@ ui <- navbarPage(
                 National Crime Victimization Survey (NCVS) which is the nation's primary source of information on criminal
                 victimization. Each year, data are obtained from a nationally representative sample of about 240,000 
                 interviews on criminal victimization, involving 160,000 unique persons in about 95,000 households."), 
-              p("Link to my github repo: ")
+              p("Link to my github repo: https://github.com/atsotadze/gov1005-milestone-3"),
               h3("About Me"),
               p("My name is Alex Tsotadze and I study Economics.
                  You can reach me at atsotadze@college.harvard.edu.")))
